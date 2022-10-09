@@ -1,5 +1,5 @@
 #!/usr/bin/python3
-"""dule that factorize as many numbers as possible
+"""Module that factorize as many numbers as possible
  into a product of two smaller numbers."""
 from sys import argv
 
